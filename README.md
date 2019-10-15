@@ -1,4 +1,6 @@
 # ResturantWebsite
 This is Restaurant Home Screen for Website
-<img  width="1024" href="art/https://github.com/mrabelwahed/ResturantWebsite/blob/master/art/restaurant1.PNG"/>
-<img width="1024" href="art/https://github.com/mrabelwahed/ResturantWebsite/blob/master/art/restaurant2.PNG"/>
+<p align="center">
+  <img src="art/https://github.com/mrabelwahed/ResturantWebsite/blob/master/art/restaurant1.PNG" width="350" title="hover text">
+  <img src="art/https://github.com/mrabelwahed/ResturantWebsite/blob/master/art/restaurant2.PNG" width="350" alt="accessibility text">
+</p>
